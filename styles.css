@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font: 1rem/1.4 Arial, sans-serif;
+    width: 40rem;
+    margin: auto;
+}
+
+h1 {
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+}
