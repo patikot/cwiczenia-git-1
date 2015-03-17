@@ -13,3 +13,9 @@ h1 {
     text-transform: uppercase;
     letter-spacing: -1px;
 }
+
+.sample-header {
+    background: #b30;
+    color: #fff;
+    padding: .5rem 1rem;
+}
